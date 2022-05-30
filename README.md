@@ -3,9 +3,14 @@ HR_system is a web based HR management system that covers the needs of SMEs for 
 
 Available functions:
 
-Event Calendar
-Employee Management
-Attendance
-Leave Management
-Salary Management
-Task Management
+- Event Calendar
+
+- Employee Management
+
+- Attendance
+
+- Leave Management
+
+- Salary Management
+
+- Task Management
